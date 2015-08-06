@@ -1,6 +1,6 @@
 {
-    "name": "utilities",
-    "version": "1.0.0",
+    "name": "toolbox-utilities",
+    "version": "1.0.1",
     "description": "Utility functions for Node",
     "main": "index.js",
     "scripts": {
