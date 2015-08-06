@@ -1,6 +1,6 @@
 {
     "name": "toolbox-utilities",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Utility functions for Node",
     "main": "index.js",
     "scripts": {
@@ -9,6 +9,10 @@
         "lint": "eslint  index.js lib/ ",
         "test":  "echo \"Error: no test specified\" && exit 1",
         "watch": "watch 'npm run lint' ./lib/ --wait=2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pcruz7/node-utilities.git"
     },
     "dependencies": {
         "lodash": "^3.10.1"
