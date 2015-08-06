@@ -1,0 +1,9 @@
+{
+  "generator-nodejs-base-module": {
+    "name": "utilities",
+    "version": "1.0.0",
+    "description": "Utility functions for Node",
+    "author": "Pedro Cruz",
+    "license": "ISC"
+  }
+}
