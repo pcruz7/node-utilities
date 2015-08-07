@@ -1,6 +1,6 @@
 {
     "name": "toolbox-utilities",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Utility functions for Node",
     "main": "index.js",
     "scripts": {
@@ -21,7 +21,12 @@
         "eslint": "^0.23.0",
         "watch": "^0.16.0"
     },
-    "keywords": [],
+    "keywords": [
+        "utilities",
+        "modules",
+        "node",
+        "factory"
+    ],
     "author": "Pedro Cruz",
     "license": "ISC"
 }

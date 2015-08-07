@@ -64,3 +64,11 @@ module.exports = Factory(function (name) {
 });
 
 ```
+
+And then use it like:
+
+```
+var Modules = utilRequire('lib/modules');
+
+Modules('path/to/module').create({ foo: 'bar' })
+```
