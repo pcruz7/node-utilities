@@ -1,6 +1,6 @@
 {
     "name": "toolbox-utilities",
-    "version": "1.0.4",
+    "version": "1.1.0",
     "description": "Utility functions for Node",
     "main": "index.js",
     "scripts": {
@@ -15,7 +15,7 @@
         "url": "https://github.com/pcruz7/node-utilities.git"
     },
     "dependencies": {
-        "lodash": "^3.10.1"
+        "lodash.assign": "^3.2.0"
     },
     "devDependencies": {
         "eslint": "^0.23.0",
